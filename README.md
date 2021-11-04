@@ -2,7 +2,7 @@
 - 👀 I’m interested in Internet Of Things
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on team
-- 📫 How to reach me : @tyohm_
+- 📫 How to reach me : [Instragram](https://www.instagram.com/tyohm_/)
 
 <!---
 tio994/tio994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
